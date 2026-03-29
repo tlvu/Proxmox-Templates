@@ -165,7 +165,7 @@
         "versions": [
             {
                 "name": "10",
-                "url": "https://dl.rockylinux.org/pub/rocky/10/images/x86_64/Rocky-10-GenericCloud-Base.latest.x86_64.qcow2"
+                "url": "https://images.linuxcontainers.org/images/rockylinux/10/amd64/cloud/20260328_02:06/disk.qcow2"
             },
             {
                 "name": "9",
